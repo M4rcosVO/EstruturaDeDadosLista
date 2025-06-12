@@ -1,4 +1,4 @@
-# Atividade - Lista Personalizada
+# Atividade - Lista
 
 Aluno: Marcos Vinícius de Oliveira  
 RA: 922143517
